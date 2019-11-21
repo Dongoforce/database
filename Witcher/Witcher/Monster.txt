@@ -1,0 +1,51 @@
+Bear, medium, Beast, 1
+Wolf, low, Beast, 2
+Botchling, high, Cursed, 3
+Werewolf, medium, Cursed, 4
+Basilisks, medium, Draconids, 5
+Cockatrices, medium, Draconids, 6
+Forktails, high, Draconids, 7
+Slyzard, high, Draconids, 8
+Wyverns, high, Draconids, 9
+Silver Basilisk, infernal, Draconids, 10
+Djinn, infernal, Elemental, 11
+Earth Elemental, high, Elemental, 12
+Fire Elemental, high, Elemental, 13
+Gargoyle, medium, Elemental, 14
+Golem, medium, Elemental, 15
+ice Elemental, low, Elemental, 16
+Ekhidna, high, Hybrids, 17
+Griffin, infernal, Hybrids ,18
+Harpy, medium, Hybrids, 19
+Siren, medium, Hybrids, 20
+Succubus, low, Hybrids, 21
+Arachasae, medium, Insectoid, 22
+Arachnomorph, high, Insectoid, 23
+Endrega, low, Insectoid, 24
+Giant centipedes, high, Insectoid, 25
+Kikimore, low, Insectoid, 26
+Sandcrabs, high, Insectoid, 27
+Ghoul, medium, Necrophage, 28
+Alghoul, high, Necrophage, 29
+Drowner, low, Necrophage, 30
+Foglet, high, Necrophage, 31
+Rotfiend, medium, Necrophage, 32
+Water hag, infernal, Necrophage, 33
+Cyclop, infernal, Ogroid, 34
+Nekker, low, Ogroid, 35
+Rock troll, medium, Ogroid, 36
+Ice troll, high, Ogroid, 37
+Chort, infernal, Relict, 38
+Doppler, low, Relict, 39
+Fiend, infernal, Relict, 40
+Leshy, high, Relict, 41
+Shaelmaar, hight, Relict, 42
+Barghest, low, Specter, 43
+Banshee, medium, Specter, 44
+Hym, infernal, Specter, 45
+Plague maiden, high, Specter, 46
+Alp, medium, Vampire, 47
+Bruxa, high, Vampire, 48
+Ekimma, high, Vampire, 49
+Higher Vampire, imortal, Vampire, 50
+Katakan, low, Vampire, 51

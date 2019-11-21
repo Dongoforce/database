@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<xs:schema xmlns="http://tempuri.org/Witcher" elementFormDefault="qualified" targetNamespace="http://tempuri.org/Witcher" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Order">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="WitcherName" />
+        <xs:element ref="MonsterName" />
+        <xs:element ref="CountOfMoney" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WitcherName" type="xs:string" />
+  <xs:element name="MonsterName" type="xs:string" />
+  <xs:element name="CountOfMoney" type="xs:string" />
+</xs:schema>

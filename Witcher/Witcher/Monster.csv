@@ -1,0 +1,52 @@
+Id,Name,ThraetLevel,Class,Suceptibility
+1,Barghest, low, Specter, 43
+2,Earth Elemental, high, Elemental, 12
+3,Rotfiend, medium, Necrophage, 32
+4,Banshee, medium, Specter, 44
+5,Harpy, medium, Hybrids, 19
+6,Giant centipedes, high, Insectoid, 25
+7,Ekhidna, high, Hybrids, 17
+8,Higher Vampire, imortal, Vampire, 50
+9,Kikimore, low, Insectoid, 26
+10,Shaelmaar, hight, Relict, 42
+11,Fiend, infernal, Relict, 40
+12,Water hag, infernal, Necrophage, 33
+13,Wyverns, high, Draconids, 9
+14,Arachasae, medium, Insectoid, 22
+15,Arachnomorph, high, Insectoid, 23
+16,Alp, medium, Vampire, 47
+17,Djinn, infernal, Elemental, 11
+18,Ice troll, high, Ogroid, 37
+19,Nekker, low, Ogroid, 35
+20,Foglet, high, Necrophage, 31
+21,Giant centipedes, high, Insectoid, 25
+22,Sandcrabs, high, Insectoid, 27
+23,Succubus, low, Hybrids, 21
+24,Golem, medium, Elemental, 15
+25,Doppler, low, Relict, 39
+26,Endrega, low, Insectoid, 24
+27,Cockatrices, medium, Draconids, 6
+28,Giant centipedes, high, Insectoid, 25
+29,Slyzard, high, Draconids, 8
+30,Golem, medium, Elemental, 15
+31,Wyverns, high, Draconids, 9
+32,Ice troll, high, Ogroid, 37
+33,Chort, infernal, Relict, 38
+34,Plague maiden, high, Specter, 46
+35,Hym, infernal, Specter, 45
+36,Siren, medium, Hybrids, 20
+37,Alghoul, high, Necrophage, 29
+38,Arachasae, medium, Insectoid, 22
+39,Rock troll, medium, Ogroid, 36
+40,Alp, medium, Vampire, 47
+41,ice Elemental, low, Elemental, 16
+42,Werewolf, medium, Cursed, 4
+43,Botchling, high, Cursed, 3
+44,Doppler, low, Relict, 39
+45,Plague maiden, high, Specter, 46
+46,Water hag, infernal, Necrophage, 33
+47,Djinn, infernal, Elemental, 11
+48,Succubus, low, Hybrids, 21
+49,Katakan, low, Vampire, 51
+50,Silver Basilisk, infernal, Draconids, 10
+51,Endrega, low, Insectoid, 24

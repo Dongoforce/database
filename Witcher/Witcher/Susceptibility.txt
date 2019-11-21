@@ -1,0 +1,52 @@
+Beast oil, Oil
+Quen, Sign
+Cursed oil, Oil
+Axii, Sign
+Ornithosaur oil, Oil
+Grapeshot, Bomb
+Golden Oriole, Potion
+Aard, Sign
+Draconid oil, Oil
+Igni, Sign
+Dimeritium bomb, Bomb
+Elemental oil, Oil
+Northern Wind, Bomb
+Blizzard, Potion
+Full Moon, Potion
+Shrike, Potion
+Hybrid oil, Oil
+Swallow, Potion
+Harpy trap, Trap
+Petri's Philter, Potion
+Perfume, Potion
+Arachnid oil, Oil
+Insectoid oil, Oil
+Golem's Pith, Potion
+Yrden, Sign
+Kikimore's Ire, Potion
+Samum, Bomb
+Necrophage oil, Oil
+Wolf, Potion
+Conflagration, Trap
+Moon dust, Bomb
+Wolverine, Potion
+Swallow, Potion
+Ogroid oil, Oil
+Tawny Owl, Potion
+Kiss, Potion
+Thunderbolt, Potion
+Devil's Puffball, Bomb
+Relict oil, Oil
+Dagon Sap, Potion
+Hellhound's Soul, Potion
+Maribor Forest, Potion
+Clawer, Trap
+Biter, Trap
+Specter oil, Oil
+Talgar winter, Trap
+Black Blood, Potion
+Vampire oil, Oil
+Fury, Trap
+Snare, Trap
+Speed Run, Potion
+Silver star, Bomb

@@ -1,0 +1,360 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Monster>
+    <Id>1</Id>
+    <Name>Barghest</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Specter</Class>
+    <SusceptibilityId>43</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>2</Id>
+    <Name>Earth Elemental</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Elemental</Class>
+    <SusceptibilityId>12</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>3</Id>
+    <Name>Rotfiend</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Necrophage</Class>
+    <SusceptibilityId>32</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>4</Id>
+    <Name>Banshee</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Specter</Class>
+    <SusceptibilityId>44</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>5</Id>
+    <Name>Harpy</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Hybrids</Class>
+    <SusceptibilityId>19</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>6</Id>
+    <Name>Giant centipedes</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Insectoid</Class>
+    <SusceptibilityId>25</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>7</Id>
+    <Name>Ekhidna</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Hybrids</Class>
+    <SusceptibilityId>17</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>8</Id>
+    <Name>Higher Vampire</Name>
+    <ThreatLevel> imortal</ThreatLevel>
+    <Class> Vampire</Class>
+    <SusceptibilityId>50</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>9</Id>
+    <Name>Kikimore</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Insectoid</Class>
+    <SusceptibilityId>26</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>10</Id>
+    <Name>Shaelmaar</Name>
+    <ThreatLevel> hight</ThreatLevel>
+    <Class> Relict</Class>
+    <SusceptibilityId>42</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>11</Id>
+    <Name>Fiend</Name>
+    <ThreatLevel> infernal</ThreatLevel>
+    <Class> Relict</Class>
+    <SusceptibilityId>40</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>12</Id>
+    <Name>Water hag</Name>
+    <ThreatLevel> infernal</ThreatLevel>
+    <Class> Necrophage</Class>
+    <SusceptibilityId>33</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>13</Id>
+    <Name>Wyverns</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Draconids</Class>
+    <SusceptibilityId>9</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>14</Id>
+    <Name>Arachasae</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Insectoid</Class>
+    <SusceptibilityId>22</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>15</Id>
+    <Name>Arachnomorph</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Insectoid</Class>
+    <SusceptibilityId>23</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>16</Id>
+    <Name>Alp</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Vampire</Class>
+    <SusceptibilityId>47</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>17</Id>
+    <Name>Djinn</Name>
+    <ThreatLevel> infernal</ThreatLevel>
+    <Class> Elemental</Class>
+    <SusceptibilityId>11</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>18</Id>
+    <Name>Ice troll</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Ogroid</Class>
+    <SusceptibilityId>37</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>19</Id>
+    <Name>Nekker</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Ogroid</Class>
+    <SusceptibilityId>35</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>20</Id>
+    <Name>Foglet</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Necrophage</Class>
+    <SusceptibilityId>31</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>21</Id>
+    <Name>Giant centipedes</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Insectoid</Class>
+    <SusceptibilityId>25</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>22</Id>
+    <Name>Sandcrabs</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Insectoid</Class>
+    <SusceptibilityId>27</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>23</Id>
+    <Name>Succubus</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Hybrids</Class>
+    <SusceptibilityId>21</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>24</Id>
+    <Name>Golem</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Elemental</Class>
+    <SusceptibilityId>15</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>25</Id>
+    <Name>Doppler</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Relict</Class>
+    <SusceptibilityId>39</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>26</Id>
+    <Name>Endrega</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Insectoid</Class>
+    <SusceptibilityId>24</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>27</Id>
+    <Name>Cockatrices</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Draconids</Class>
+    <SusceptibilityId>6</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>28</Id>
+    <Name>Giant centipedes</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Insectoid</Class>
+    <SusceptibilityId>25</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>29</Id>
+    <Name>Slyzard</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Draconids</Class>
+    <SusceptibilityId>8</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>30</Id>
+    <Name>Golem</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Elemental</Class>
+    <SusceptibilityId>15</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>31</Id>
+    <Name>Wyverns</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Draconids</Class>
+    <SusceptibilityId>9</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>32</Id>
+    <Name>Ice troll</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Ogroid</Class>
+    <SusceptibilityId>37</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>33</Id>
+    <Name>Chort</Name>
+    <ThreatLevel> infernal</ThreatLevel>
+    <Class> Relict</Class>
+    <SusceptibilityId>38</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>34</Id>
+    <Name>Plague maiden</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Specter</Class>
+    <SusceptibilityId>46</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>35</Id>
+    <Name>Hym</Name>
+    <ThreatLevel> infernal</ThreatLevel>
+    <Class> Specter</Class>
+    <SusceptibilityId>45</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>36</Id>
+    <Name>Siren</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Hybrids</Class>
+    <SusceptibilityId>20</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>37</Id>
+    <Name>Alghoul</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Necrophage</Class>
+    <SusceptibilityId>29</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>38</Id>
+    <Name>Arachasae</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Insectoid</Class>
+    <SusceptibilityId>22</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>39</Id>
+    <Name>Rock troll</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Ogroid</Class>
+    <SusceptibilityId>36</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>40</Id>
+    <Name>Alp</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Vampire</Class>
+    <SusceptibilityId>47</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>41</Id>
+    <Name>ice Elemental</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Elemental</Class>
+    <SusceptibilityId>16</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>42</Id>
+    <Name>Werewolf</Name>
+    <ThreatLevel> medium</ThreatLevel>
+    <Class> Cursed</Class>
+    <SusceptibilityId>4</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>43</Id>
+    <Name>Botchling</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Cursed</Class>
+    <SusceptibilityId>3</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>44</Id>
+    <Name>Doppler</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Relict</Class>
+    <SusceptibilityId>39</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>45</Id>
+    <Name>Plague maiden</Name>
+    <ThreatLevel> high</ThreatLevel>
+    <Class> Specter</Class>
+    <SusceptibilityId>46</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>46</Id>
+    <Name>Water hag</Name>
+    <ThreatLevel> infernal</ThreatLevel>
+    <Class> Necrophage</Class>
+    <SusceptibilityId>33</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>47</Id>
+    <Name>Djinn</Name>
+    <ThreatLevel> infernal</ThreatLevel>
+    <Class> Elemental</Class>
+    <SusceptibilityId>11</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>48</Id>
+    <Name>Succubus</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Hybrids</Class>
+    <SusceptibilityId>21</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>49</Id>
+    <Name>Katakan</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Vampire</Class>
+    <SusceptibilityId>51</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>50</Id>
+    <Name>Silver Basilisk</Name>
+    <ThreatLevel> infernal</ThreatLevel>
+    <Class> Draconids</Class>
+    <SusceptibilityId>10</SusceptibilityId>
+  </Monster>
+  <Monster>
+    <Id>51</Id>
+    <Name>Endrega</Name>
+    <ThreatLevel> low</ThreatLevel>
+    <Class> Insectoid</Class>
+    <SusceptibilityId>24</SusceptibilityId>
+  </Monster>
+</NewDataSet>

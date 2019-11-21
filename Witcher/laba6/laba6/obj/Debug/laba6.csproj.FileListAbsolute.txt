@@ -1,0 +1,7 @@
+E:\Witcher\laba6\laba6\obj\Debug\laba6.csprojAssemblyReference.cache
+E:\Witcher\laba6\laba6\obj\Debug\laba6.csproj.CoreCompileInputs.cache
+E:\Witcher\laba6\laba6\bin\Debug\laba6.exe.config
+E:\Witcher\laba6\laba6\bin\Debug\laba6.exe
+E:\Witcher\laba6\laba6\bin\Debug\laba6.pdb
+E:\Witcher\laba6\laba6\obj\Debug\laba6.exe
+E:\Witcher\laba6\laba6\obj\Debug\laba6.pdb

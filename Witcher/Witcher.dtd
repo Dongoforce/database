@@ -1,0 +1,6 @@
+<!DOCTYPE Orders [
+<!ELEMENT Order (WitcherName, MonsterName, CountOfMoney)>
+<!ELEMENT WitcherName (#PCDATA)>
+<!ELEMENT MonsterName (#PCDATA)>
+<!ELEMENT CountOfMoney (#PCDATA)>
+]>

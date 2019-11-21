@@ -1,0 +1,7 @@
+E:\Witcher\laba8\laba8\obj\Debug\laba8.csprojAssemblyReference.cache
+E:\Witcher\laba8\laba8\obj\Debug\laba8.csproj.CoreCompileInputs.cache
+E:\Witcher\laba8\laba8\bin\Debug\laba8.exe.config
+E:\Witcher\laba8\laba8\bin\Debug\laba8.exe
+E:\Witcher\laba8\laba8\bin\Debug\laba8.pdb
+E:\Witcher\laba8\laba8\obj\Debug\laba8.exe
+E:\Witcher\laba8\laba8\obj\Debug\laba8.pdb

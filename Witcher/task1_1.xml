@@ -1,0 +1,378 @@
+﻿<Orders>
+  <Witcher WitcherName="Alan">
+    <Monster MonsterName="Barghest">
+      <Order CountOfMoney="5241" />
+    </Monster>
+    <Monster MonsterName="Ekhidna">
+      <Order CountOfMoney="6513" />
+    </Monster>
+    <Monster MonsterName="Kikimore">
+      <Order CountOfMoney="6018" />
+    </Monster>
+    <Monster MonsterName="Slyzard">
+      <Order CountOfMoney="668" />
+    </Monster>
+    <Monster MonsterName="Werewolf">
+      <Order CountOfMoney="5370" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Alex">
+    <Monster MonsterName="Sandcrabs">
+      <Order CountOfMoney="533" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Alexander">
+    <Monster MonsterName="Doppler">
+      <Order CountOfMoney="4813" />
+    </Monster>
+    <Monster MonsterName="Rotfiend">
+      <Order CountOfMoney="5741" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Andrew">
+    <Monster MonsterName="Ekhidna">
+      <Order CountOfMoney="453" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Ashton">
+    <Monster MonsterName="Ice troll">
+      <Order CountOfMoney="5291" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Benjamin">
+    <Monster MonsterName="Succubus">
+      <Order CountOfMoney="5775" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Blake">
+    <Monster MonsterName="Barghest">
+      <Order CountOfMoney="4660" />
+    </Monster>
+    <Monster MonsterName="Plague maiden">
+      <Order CountOfMoney="4351" />
+    </Monster>
+    <Monster MonsterName="Water hag">
+      <Order CountOfMoney="8066" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Brandon">
+    <Monster MonsterName="Golem">
+      <Order CountOfMoney="2917" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Brian">
+    <Monster MonsterName="Arachasae">
+      <Order CountOfMoney="6242" />
+    </Monster>
+    <Monster MonsterName="Foglet">
+      <Order CountOfMoney="3445" />
+    </Monster>
+    <Monster MonsterName="Katakan">
+      <Order CountOfMoney="9774" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Bruce">
+    <Monster MonsterName="Botchling">
+      <Order CountOfMoney="9580" />
+    </Monster>
+    <Monster MonsterName="Plague maiden">
+      <Order CountOfMoney="7124" />
+    </Monster>
+    <Monster MonsterName="Succubus">
+      <Order CountOfMoney="9954" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Bryan">
+    <Monster MonsterName="Earth Elemental">
+      <Order CountOfMoney="8923" />
+    </Monster>
+    <Monster MonsterName="Werewolf">
+      <Order CountOfMoney="9065" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Caleb">
+    <Monster MonsterName="Fiend">
+      <Order CountOfMoney="9901" />
+    </Monster>
+    <Monster MonsterName="Nekker">
+      <Order CountOfMoney="3602" />
+    </Monster>
+    <Monster MonsterName="Plague maiden">
+      <Order CountOfMoney="7440" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Chase">
+    <Monster MonsterName="Higher Vampire">
+      <Order CountOfMoney="6628" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Christian">
+    <Monster MonsterName="Chort">
+      <Order CountOfMoney="6064" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Christopher">
+    <Monster MonsterName="Earth Elemental">
+      <Order CountOfMoney="2048" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Clifford">
+    <Monster MonsterName="Alp">
+      <Order CountOfMoney="97" />
+      <Order CountOfMoney="2072" />
+    </Monster>
+    <Monster MonsterName="Giant centipedes">
+      <Order CountOfMoney="7249" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Cole">
+    <Monster MonsterName="Arachasae">
+      <Order CountOfMoney="5135" />
+    </Monster>
+    <Monster MonsterName="Ekhidna">
+      <Order CountOfMoney="9175" />
+    </Monster>
+    <Monster MonsterName="Higher Vampire">
+      <Order CountOfMoney="22" />
+    </Monster>
+    <Monster MonsterName="Nekker">
+      <Order CountOfMoney="6659" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Colin">
+    <Monster MonsterName="Chort">
+      <Order CountOfMoney="1639" />
+    </Monster>
+    <Monster MonsterName="Nekker">
+      <Order CountOfMoney="6244" />
+    </Monster>
+    <Monster MonsterName="Wyverns">
+      <Order CountOfMoney="8739" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="David">
+    <Monster MonsterName="Arachasae">
+      <Order CountOfMoney="9472" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Diego">
+    <Monster MonsterName="Botchling">
+      <Order CountOfMoney="3879" />
+    </Monster>
+    <Monster MonsterName="Succubus">
+      <Order CountOfMoney="2539" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Dominic">
+    <Monster MonsterName="Endrega">
+      <Order CountOfMoney="3203" />
+    </Monster>
+    <Monster MonsterName="Water hag">
+      <Order CountOfMoney="6781" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Dylan">
+    <Monster MonsterName="Endrega">
+      <Order CountOfMoney="9187" />
+    </Monster>
+    <Monster MonsterName="Giant centipedes">
+      <Order CountOfMoney="5258" />
+      <Order CountOfMoney="9843" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Hayden">
+    <Monster MonsterName="Succubus">
+      <Order CountOfMoney="1733" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Horace">
+    <Monster MonsterName="Arachasae">
+      <Order CountOfMoney="663" />
+    </Monster>
+    <Monster MonsterName="Katakan">
+      <Order CountOfMoney="2179" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Hugh">
+    <Monster MonsterName="Barghest">
+      <Order CountOfMoney="654" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Jack">
+    <Monster MonsterName="Cockatrices">
+      <Order CountOfMoney="9708" />
+    </Monster>
+    <Monster MonsterName="Ice troll">
+      <Order CountOfMoney="1156" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Jaden">
+    <Monster MonsterName="Djinn">
+      <Order CountOfMoney="1522" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Jeremiah">
+    <Monster MonsterName="Rotfiend">
+      <Order CountOfMoney="6185" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Jesus">
+    <Monster MonsterName="Alp">
+      <Order CountOfMoney="6326" />
+      <Order CountOfMoney="6435" />
+    </Monster>
+    <Monster MonsterName="Golem">
+      <Order CountOfMoney="3023" />
+    </Monster>
+    <Monster MonsterName="Sandcrabs">
+      <Order CountOfMoney="892" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="John">
+    <Monster MonsterName="Alp">
+      <Order CountOfMoney="9644" />
+    </Monster>
+    <Monster MonsterName="Golem">
+      <Order CountOfMoney="6110" />
+    </Monster>
+    <Monster MonsterName="Harpy">
+      <Order CountOfMoney="6501" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Jordan">
+    <Monster MonsterName="Barghest">
+      <Order CountOfMoney="390" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Joseph">
+    <Monster MonsterName="Chort">
+      <Order CountOfMoney="8303" />
+    </Monster>
+    <Monster MonsterName="Fiend">
+      <Order CountOfMoney="2261" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Justin">
+    <Monster MonsterName="Alp">
+      <Order CountOfMoney="4605" />
+    </Monster>
+    <Monster MonsterName="Harpy">
+      <Order CountOfMoney="3045" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Landon">
+    <Monster MonsterName="Earth Elemental">
+      <Order CountOfMoney="5533" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Lawrence">
+    <Monster MonsterName="Arachasae">
+      <Order CountOfMoney="4706" />
+    </Monster>
+    <Monster MonsterName="Botchling">
+      <Order CountOfMoney="5691" />
+    </Monster>
+    <Monster MonsterName="Nekker">
+      <Order CountOfMoney="267" />
+    </Monster>
+    <Monster MonsterName="Succubus">
+      <Order CountOfMoney="8932" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Luke">
+    <Monster MonsterName="Alp">
+      <Order CountOfMoney="248" />
+    </Monster>
+    <Monster MonsterName="Doppler">
+      <Order CountOfMoney="1710" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Nathan">
+    <Monster MonsterName="Djinn">
+      <Order CountOfMoney="3192" />
+    </Monster>
+    <Monster MonsterName="Giant centipedes">
+      <Order CountOfMoney="6617" />
+      <Order CountOfMoney="8589" />
+    </Monster>
+    <Monster MonsterName="Shaelmaar">
+      <Order CountOfMoney="298" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Nathaniel">
+    <Monster MonsterName="Arachasae">
+      <Order CountOfMoney="5325" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Neil">
+    <Monster MonsterName="Arachnomorph">
+      <Order CountOfMoney="8431" />
+    </Monster>
+    <Monster MonsterName="Djinn">
+      <Order CountOfMoney="2834" />
+    </Monster>
+    <Monster MonsterName="Golem">
+      <Order CountOfMoney="1612" />
+    </Monster>
+    <Monster MonsterName="Ice troll">
+      <Order CountOfMoney="2525" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Nicholas">
+    <Monster MonsterName="Golem">
+      <Order CountOfMoney="1233" />
+      <Order CountOfMoney="5542" />
+    </Monster>
+    <Monster MonsterName="Plague maiden">
+      <Order CountOfMoney="8286" />
+    </Monster>
+    <Monster MonsterName="Succubus">
+      <Order CountOfMoney="5787" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Noah">
+    <Monster MonsterName="Fiend">
+      <Order CountOfMoney="7281" />
+    </Monster>
+    <Monster MonsterName="Golem">
+      <Order CountOfMoney="3095" />
+      <Order CountOfMoney="7875" />
+    </Monster>
+    <Monster MonsterName="Higher Vampire">
+      <Order CountOfMoney="3807" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Ralph">
+    <Monster MonsterName="Plague maiden">
+      <Order CountOfMoney="1160" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Richard">
+    <Monster MonsterName="Ice troll">
+      <Order CountOfMoney="7914" />
+    </Monster>
+    <Monster MonsterName="Rock troll">
+      <Order CountOfMoney="6221" />
+    </Monster>
+  </Witcher>
+  <Witcher WitcherName="Rodrigo">
+    <Monster MonsterName="Arachnomorph">
+      <Order CountOfMoney="7661" />
+    </Monster>
+    <Monster MonsterName="Cockatrices">
+      <Order CountOfMoney="4136" />
+    </Monster>
+    <Monster MonsterName="Djinn">
+      <Order CountOfMoney="9840" />
+    </Monster>
+    <Monster MonsterName="Doppler">
+      <Order CountOfMoney="2521" />
+    </Monster>
+    <Monster MonsterName="Siren">
+      <Order CountOfMoney="2884" />
+    </Monster>
+    <Monster MonsterName="Werewolf">
+      <Order CountOfMoney="8583" />
+    </Monster>
+  </Witcher>
+</Orders>

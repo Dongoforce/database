@@ -1,0 +1,9 @@
+E:\Witcher\witchfunc\witchfunc\bin\Debug\witchfunc.dacpac
+E:\Witcher\witchfunc\witchfunc\bin\Debug\witchfunc.dll
+E:\Witcher\witchfunc\witchfunc\bin\Debug\witchfunc.pdb
+E:\Witcher\witchfunc\witchfunc\obj\Debug\Model.xml
+E:\Witcher\witchfunc\witchfunc\obj\Debug\refactor.xml
+E:\Witcher\witchfunc\witchfunc\obj\Debug\postdeploy.sql
+E:\Witcher\witchfunc\witchfunc\obj\Debug\predeploy.sql
+E:\Witcher\witchfunc\witchfunc\obj\Debug\witchfunc.dll
+E:\Witcher\witchfunc\witchfunc\obj\Debug\witchfunc.pdb
